@@ -1,7 +1,5 @@
 # Genomics-Feature-Learning
 
-Genomics feature learning is an unsupervised feature extraction algorithm. The algorithm is inspired by the 'Adversarilly Learned Inference' method and extracts features from human gene sequences.
-
 The algorithms takes the gene sequences as input in fasta format (*.fa).
 
 Requirement:
