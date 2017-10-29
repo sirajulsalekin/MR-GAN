@@ -6,7 +6,7 @@ The algorithms takes the gene sequences as input in fasta format (*.fa).
 
 Requirement:
 
-1. dna2vec.
+1. dna2vec (https://github.com/pnpnpn/dna2vec).
 2. Python3
 3. Tensorflow
 
