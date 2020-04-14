@@ -15,6 +15,6 @@ python3 onehot_encode_geneSeq.py --genome_file_path your/saved/fasta/file/direct
 
 *** Note that, this code generates ~30 GB data for whole gene sequence and save to your local disk.
 
-2. Feed the saved HDF5 files into the GFL_main_wgan.py to train the MR-GAN model.
+2. Feed the saved HDF5 files into the mrgan_main_wgan.py to train the MR-GAN model.
 
-python3 GFL_main_wgan.py --genome_file_path your/saved/HDF5/file/directory --log_dir directory/where/trained/model/will/be/saved 
+python3 mrgan_main_wgan.py --genome_file_path your/saved/HDF5/file/directory --log_dir directory/where/trained/model/will/be/saved 
