@@ -1,6 +1,6 @@
-# Genomics-Feature-Learning
+# Predicting multiple types of Modification sites in RNA using GAN (MR-GAN)
 
-The algorithms takes the gene sequences as input in fasta format (*.fa).
+MR-GAN model training takes the transcriptomic sequences as input in fasta format (*.fa).
 
 Requirement:
 
